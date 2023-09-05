@@ -1,4 +1,4 @@
-const SECRET = "fada do sono";
+const SECRET = "mestre dos magos";
 
 export {
     SECRET
